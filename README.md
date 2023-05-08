@@ -16,7 +16,7 @@ Copy++ is a simple application for Windows that adds the feature of additive cop
 3. Download or clone the source code for Copy++
 4. Run the application by navigating to the source code directory in the command prompt and executing the following command:
    ```
-   python copy++.py
+   python main.py
    ```
 
 ## Usage
